@@ -17,6 +17,10 @@ De ex.cie ziet er op toe dat er geen significante overlap zit in de al eerder "u
 | Fontys-minor | Fontys-breede minor waarbij de doorstroom ingeregeld is via het OER/ opleidingsgids. Toestemming aanvragen bij de ex.cie is niet nodig. |
 | Schakelminor | Minor (pre-master) waarbij de doorstroom ingeregeld is via het OER/ opleidingsgids. Toestemming aanvragen bij de ex.cie is niet nodig. |
 | Externe minor | Minor waarbij de ex.cie toestemming moet geven. Deze procedure richt zich op dit type minor. |
+| Erasmus+ LA | Een learning agreement in het Erasmus+-format voor minors bij (cluster)partner universiteiten. (Denk: de "kiesopmaat"-variant voor buitenland-minoren.) |
+| Study Abroad | Zowel een afdeling binnen Fontys als Fontys ICT ter ondersteuning voor o.a. minors in het buitenland. |
+| Mobility online | Een dienst (checklist-website) gebruikt door Fontys (ICT) Study Abroad welke bijhoud in welke vast de student is m.b.t. de buitenland minor. |
+| (Cluster) partner universiteit | Universiteit waar Fontys (partner) danwel ons cluster domein (Educatie, cluster partner) [afspraken mee hebben gemaakt](https://www.fontys.nl/en/Fontys-Study-Abroad/Minor-abroad.htm) voor onderlinge uitwisseling via het Erasmus+ programma. |
 
 ## Procedure externe minor in Nederland
 Deze procedure in dit hoofdstuk richt zich op de aanvraag voor een externe minor in Nederland (al dan niet via kiesopmaat).
@@ -131,7 +135,63 @@ Intern
 >
 >Programming 2 is bijna letterlijk S2 (of eigenlijk SE2 van het oude curriculum zelfs). Er waren inderdaad destijds wat issues met docenten in S2 die plotseling uit dienst gingen, maar ik denk eigenlijk niet dat ze ondanks dat daar veel bij gaat leren. Dus: teveel overlap inderdaad. Groet, Ruben
 
+### Voorbeeld van bestanden die je tegenkomt
+ * Een ingevulde en goedgekeurde Learning agreement van kiesopmaat
+ * Een modulebeschrijving van kiesopmaat
+
 ## Procedure externe minor buiten Nederland
 Deze procedure richt zich op de aanvraag voor een externe minor buiten Nederland.
 
-Volgt nog.
+```mermaid
+---
+title: Ex.cie aanvraag externe minor buitenland
+---
+flowchart TD
+
+    %% Start
+    Start((Start))-->TypeM
+    TypeM-->|Binnen Nederland|Binnenland[[Zie ex.cie aanvraag
+      minor Nederland]]
+    TypeM{Type minor?}-->|Buiten Nederland|Erasmus{Erasmus+
+      LA?}
+
+    %% Bronnen Bekend
+    
+
+    %% Erasmus?
+    Erasmus-->|Ja|Check[Controle
+      volledigheid
+      e.g. ECTS]
+    Check-->|Ja, verder naar controle
+      significante overlap|Binnenland2[[Zie ex.cie aanvraag
+      minor Nederland]]
+    Erasmus-->|Nee|Onbekend[Verder
+      opstellen
+      van de LA]
+    Onbekend-->|Ja, verder naar controle
+      significante overlap|Binnenland2[[Zie ex.cie aanvraag
+      minor Nederland]]
+
+    %% Onbekend bronnen
+    MobOnline[(Universiteits-
+      gegevens)]-->|ECTS
+      omrekenen|Onbekend
+    STU[/Student/]-->|Motivatie, LA,
+      Bekostiging, enz.|Onbekend
+    FZ[/FZ/]-.->|Intentie
+      betaling
+      opvragen|Onbekend
+```
+
+### Belangrijke (beslis)momenten
+Fontys heeft een aantal [partner universiteiten](https://www.fontys.nl/en/Fontys-Study-Abroad/Minor-abroad.htm) waarmee we afspraken hebben gemaakt. **vrdr uitw**
+
+Erasmus+ LA **vrdr uitw**
+
+Verder opstellen LA. **vrdr uitw**
+
+### Voorbeeld van communicatie
+> Erasmus+
+
+### Voorbeeld van bestanden die je tegenkomt
+ * Erasmus+ ingevulde LA.
