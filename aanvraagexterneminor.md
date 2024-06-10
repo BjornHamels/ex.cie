@@ -94,6 +94,9 @@ flowchart TD
 
 ```
 
+### Uitzonderingen op de procedure
+ * Wellicht goed om te weten dat een student meerdere LA's kan laten tekenen (bijv. in het geval van loting) met alternatieven op de eerste minorkeuze.
+
 ### Belangrijke (beslis)momenten
 Een kiesopmaat minor versnelt het process aanzienlijk. Waar er geen kiesopmaat aanvrag wordt ingediend moet er worden gecontroleerd op: accreditatie (nvao); het niveau (post-propedeuse); en of het 30 ECTS is.
 
@@ -108,7 +111,6 @@ Het gebeurd zelden dat een minor wordt afgewezen, vaak wordt er een minorvak gew
 Het valt op dat er op "significante overlap" getoetst wordt zonder dit te specificeren. Wat is significant? De voorkeur is om hier geen arbitrair getal aan te hangen. (Echter persoonlijk bij een buitenlandervaring vind ik meer dan 5 ECTS significant.)
 
 ### Voorbeeld van communicatie
-
 Ex.cie _- bij vermoeden van significante overlap_
 >>>>Als examenkamer moeten we controleren dat we niet twee keer ECTS "uitbetalen" aan al geleerde kennis.
 >>>>
@@ -183,15 +185,67 @@ flowchart TD
       opvragen|Onbekend
 ```
 
+### Uitzonderingen op de procedure
+ * Hoewel de ex.cie moet toezien op geen significante overlap vooraf gaand aan de mobiliteit is dat in Asie (vooral Zuid Korea) vaak niet haalbaar. Daar worden de minorvakken geplubliceerd op borden bij aankomst. Talen en vakken zijn vooraf niet duidelijk. Afspraak hier is dat de student een intentie stuurt om bepaalde minorvakken te volgen zodat de ex.cie kan waarschuwen op overlap. De student kiest dan de minorvakken bij aankomst en maakt zo snel mogelijk een LA. Dit maakt het moeilijker om te controleren op overlap. (Wijzigingen zijn moeilijk door te voeren zodra het eenmaal loopt.)
+
 ### Belangrijke (beslis)momenten
-Fontys heeft een aantal [partner universiteiten](https://www.fontys.nl/en/Fontys-Study-Abroad/Minor-abroad.htm) waarmee we afspraken hebben gemaakt. **vrdr uitw**
+Fontys heeft een aantal [partner universiteiten](https://www.fontys.nl/en/Fontys-Study-Abroad/Minor-abroad.htm) waarmee we afspraken hebben gemaakt. Daarmee werken we (vaak binnen de EU) met de Erasmus+-LA. Dit versnelt het proces. Controle is vooral op ECTS (of een ander systeem). Het Erasmus+ heeft ook change requests en andere wijzigingsformulieren voor handen. (Ik denkt dat deze uit/ via mobility online worden gemaakt.)
 
-Erasmus+ LA **vrdr uitw**
+Verder opstellen LA gaat vaak onder leiding van de student zelf. Een minor in het buitenland trekt de pro-actieve studenten aan die dit zelf vaak goed onder controle hebben.
 
-Verder opstellen LA. **vrdr uitw**
+Sommige minors vereisen een verklaring van een GPA van de student. Deze stellen wij niet meer op. De student kan die eventueel zelf uitrekenen.
+
+Studenten vaak 1 minorvak meer dan nodig (bijv een totaal van 36 ECTS). Bij aankomst kunnen ze dan uitval/ roosterproblemen opvangen (/ of een keuze uitstellen). Daartoe wordt dan een nieuwe LA/ change request ingediend. Soms wordt die vergeten, en dat is niet erg.
 
 ### Voorbeeld van communicatie
-> Erasmus+
+Student komt uit het technology (en SI) profiel.
+>>>>>I am writting to request approval on my Learning Agreement for my Minor Abroad. Please see the attached files!
+>>>>>The (.pdf) file is the Learning Agreement generated from MobilityOnline website and the (.docx) file is the LA given me from the Host university.
+>>>>
+>>>>I’m afraid I cannot yet sign the document. Please review my findings and reply with your motivation/ clarifications.
+>>>>· Course BCSCe58.1 is missing the description. If unavailable, explain what you expect to learn in that course.
+>>>>· CCEe05, BCSCe13.2, EEAe26, BCSCe10, all four, in order of severity seem to have significant overlap with your profile and/ or specialization. Explain what you expect to learn more than you already know or learnt in your profile and/ or specialization. Be thorough in our motivation.
+>>>
+>>>[...]
+>>>CCEe05 Computer Systems - 
+>>>In choosing this course, my motivation lies in delving into the intricate details of arithmetic in computer systems, digital devices, and their essential elements. This includes gaining a comprehensive understanding of components such as logical gates, decoders, multiplexers, flip-flops, and registers. I aim to explore the characteristics, organization, action, and expansion of various types of computer memories with a keen interest in their complexities.
+>>>The study of single-chip microcomputers, covering architecture, characteristics, and modes of operation, is particularly intriguing. My intention is to explore the ways of data exchange, including both parallel and sequential methods, as well as parallel-sequential combinations. Understanding the nuances of types of interfaces, with theoretical and practical examples and implementations, will add depth to my knowledge.
+>>>I specifically opted for this course because I aspire to more deeply dive into the topic, approaching it with a theoretical perspective. I am eager to work on a theoretical basis to complement my practical knowledge. I aim to demonstrate that this course goes beyond the scope of my current profile and specialization, offering a more profound exploration of the intricacies involved in computer systems. This theoretical emphasis aligns with my goal of gaining a comprehensive and nuanced understanding of the functionalities of computer systems.
+>>>[...]
+>>
+>>Thanks for your reply. This is ok. I will have to invite a collegue to review your choosen courses. This will add a few days to the process, just so you know.
+>
+>Thank your for your fast reply! I will eagerly await your reply!
+>My deadline for signed and completed acceptance documents of the Host University is December 20th.
+
+De 2nd opinion bij een projectleider onderwijsuitvoering.
+>>>>>Given this student SVS LINK (whom you are also a sc of i see now).
+>>>>>Could you please review his motivation and assess if there's not too much overlap with his profile (tech) and specialization (si - hence I'm contacting you).
+>>>>>Can you provide me with a reply in this tool with your findings?
+>>>>
+>>>>I find the setting of the courses good and it extends the program we offer at FHICT. My only question is about BCSCe13.2 Elective Discipline (List 1) - Embedded system -
+>>>>From the description I cannot understand how this course will extend our program of Embedded software. Maybe Student can give more concrete details of the course, on how this course will extend his gained knowledge at FHICT.
+>>>
+>>>Sorry it took so long. One of my reviewers replied yesterday and had no objections save one course. There is potential for overlap in > BCSCe13.2 Elective Discipline (List 1) - Embedded system -. I therefor ask you to direct studies in that course to have the least amount of overlap possible. (E.g. explore the unknow path in that course.)
+>>>Attached are both documents - signed. Enjoy your minor!
+>>
+>>Thanks for the reply! I will for sure explore the unkown path in the course! Just to let you know from the Host University is still not sure if this couse will be available, so i may need to change it later if its needed but want to express my gratitude for your understanding.
+>
+>I am sending you my Learning Agreement for signuters because of changes.
+>Due to wrong documentation and information submitted this subject was originally 5 credits but due to ongoing host university changes, this subject is now 4 credits, and a new subject must be added to make the required 30 credits
+
+
+LA (change request) getekend; de uiteindelijke minor bestond uit:
+ * BCSCe13.2 (Semester 6) Elective Discipline (List 1) - Embedded system. 4 ECTS (was 5)
+ * SPRe04 Sports. 1 ECTS
+ * BCSCe10 (Semester 6) Development of Linux-based software. 4 ECTS
+ * BCSCe14 (Semester 6) Project on selected discipline. 2 ECTS
+ * BCSCe58.1 (Semester 8) Marketing in High Technologies. 4 ECTS
+ * CCEe05 (Semester 4) Computer Systems. 5 ECTS
+ * CCEe08 (Semester 4) Databases. 6 ECTS
+ * EEAe26 (Semester 4) Measurements in Communications and Computer Engineering. 4 ECTS
+
+Wat valt op? Een LA komt vaak meerdere malen terug (via change requests) voor minorvakken die niet doorgaan, in een onbekende taal worden gegeven, ECTS die aangepast zijn. Ook zie je dat initieel de behandelaar meer overlap verwachtte dan wat bleek via de PLOU. Wat je ook ziet is soms een wat simpel "filler" minorvak (zoals sports), dat is helemaal prima (wij zijn immers geen sportopleiding).
 
 ### Voorbeeld van bestanden die je tegenkomt
  * Erasmus+ ingevulde LA.
