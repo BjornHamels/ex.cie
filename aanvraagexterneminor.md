@@ -224,19 +224,19 @@ Student komt uit het technology (en SI) profiel.
 >My deadline for signed and completed acceptance documents of the Host University is December 20th.
 
 De 2nd opinion bij een projectleider onderwijsuitvoering.
->>>>>Given this student SVS LINK (whom you are also a sc of i see now).
+>>>>>Ex.cie to PLOU: Given this student SVS LINK (whom you are also a sc of i see now).
 >>>>>Could you please review his motivation and assess if there's not too much overlap with his profile (tech) and specialization (si - hence I'm contacting you).
 >>>>>Can you provide me with a reply in this tool with your findings?
 >>>>
->>>>I find the setting of the courses good and it extends the program we offer at FHICT. My only question is about BCSCe13.2 Elective Discipline (List 1) - Embedded system -
+>>>>PLOU: I find the setting of the courses good and it extends the program we offer at FHICT. My only question is about BCSCe13.2 Elective Discipline (List 1) - Embedded system -
 >>>>From the description I cannot understand how this course will extend our program of Embedded software. Maybe Student can give more concrete details of the course, on how this course will extend his gained knowledge at FHICT.
 >>>
->>>Sorry it took so long. One of my reviewers replied yesterday and had no objections save one course. There is potential for overlap in > BCSCe13.2 Elective Discipline (List 1) - Embedded system -. I therefor ask you to direct studies in that course to have the least amount of overlap possible. (E.g. explore the unknow path in that course.)
+>>>Ex.cie to student: Sorry it took so long. One of my reviewers replied yesterday and had no objections save one course. There is potential for overlap in > BCSCe13.2 Elective Discipline (List 1) - Embedded system -. I therefor ask you to direct studies in that course to have the least amount of overlap possible. (E.g. explore the unknow path in that course.)
 >>>Attached are both documents - signed. Enjoy your minor!
 >>
->>Thanks for the reply! I will for sure explore the unkown path in the course! Just to let you know from the Host University is still not sure if this couse will be available, so i may need to change it later if its needed but want to express my gratitude for your understanding.
+>>Student: Thanks for the reply! I will for sure explore the unkown path in the course! Just to let you know from the Host University is still not sure if this couse will be available, so i may need to change it later if its needed but want to express my gratitude for your understanding.
 >
->I am sending you my Learning Agreement for signuters because of changes.
+>Student (later): I am sending you my Learning Agreement for signuters because of changes.
 >Due to wrong documentation and information submitted this subject was originally 5 credits but due to ongoing host university changes, this subject is now 4 credits, and a new subject must be added to make the required 30 credits
 
 
