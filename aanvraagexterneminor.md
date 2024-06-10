@@ -22,6 +22,32 @@ De ex.cie ziet er op toe dat er geen significante overlap zit in de al eerder "u
 | Mobility online | Een dienst (checklist-website) gebruikt door Fontys (ICT) Study Abroad welke bijhoud in welke vast de student is m.b.t. de buitenland minor. |
 | (Cluster) partner universiteit | Universiteit waar Fontys (partner) danwel ons cluster domein (Educatie, cluster partner) [afspraken mee hebben gemaakt](https://www.fontys.nl/en/Fontys-Study-Abroad/Minor-abroad.htm) voor onderlinge uitwisseling via het Erasmus+ programma. |
 
+## Het process op hoog niveau
+Dit document gaat in op de stappen "Voorbereiding ..." tot en met de pijl "Toestemming via LA".
+
+```mermaid
+---
+title: Het minor-process op hoog niveau
+---
+flowchart LR
+
+    StudyAbroad[/Student Abroad/]-.->Voorbereiding
+    MobilityOnline[/Mobility Online/]-.->Voorbereiding
+    
+    Voorbereiding[Voorbereiding op
+      de minor:
+      opstellen LA]-->|Toestemming
+      via LA|Minor[Minorsemester
+      student volgt de minor]
+    Minor-->|>=30 ECTS|TOR[Transcript of Records:
+      30 ECTS wordt geregistreerd
+      in progresswww]
+    Minor-->|< 30 ECTS|Fail[Voorstel hoe missende
+      ECTS op te pakken
+      vanuit ex.cie]
+    Minor-.->|Change request|Minor
+```
+
 ## Procedure externe minor in Nederland
 Deze procedure in dit hoofdstuk richt zich op de aanvraag voor een externe minor in Nederland (al dan niet via kiesopmaat).
 
