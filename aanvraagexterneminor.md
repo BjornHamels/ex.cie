@@ -209,9 +209,12 @@ Student komt uit het technology (en SI) profiel.
 >>>>· CCEe05, BCSCe13.2, EEAe26, BCSCe10, all four, in order of severity seem to have significant overlap with your profile and/ or specialization. Explain what you expect to learn more than you already know or learnt in your profile and/ or specialization. Be thorough in our motivation.
 >>>
 >>>[...]
->>>CCEe05 Computer Systems - 
+>>>CCEe05 Computer Systems - 5 ECTS
+>>>
 >>>In choosing this course, my motivation lies in delving into the intricate details of arithmetic in computer systems, digital devices, and their essential elements. This includes gaining a comprehensive understanding of components such as logical gates, decoders, multiplexers, flip-flops, and registers. I aim to explore the characteristics, organization, action, and expansion of various types of computer memories with a keen interest in their complexities.
+>>>
 >>>The study of single-chip microcomputers, covering architecture, characteristics, and modes of operation, is particularly intriguing. My intention is to explore the ways of data exchange, including both parallel and sequential methods, as well as parallel-sequential combinations. Understanding the nuances of types of interfaces, with theoretical and practical examples and implementations, will add depth to my knowledge.
+>>>
 >>>I specifically opted for this course because I aspire to more deeply dive into the topic, approaching it with a theoretical perspective. I am eager to work on a theoretical basis to complement my practical knowledge. I aim to demonstrate that this course goes beyond the scope of my current profile and specialization, offering a more profound exploration of the intricacies involved in computer systems. This theoretical emphasis aligns with my goal of gaining a comprehensive and nuanced understanding of the functionalities of computer systems.
 >>>[...]
 >>
