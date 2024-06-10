@@ -164,8 +164,9 @@ Intern
 >Programming 2 is bijna letterlijk S2 (of eigenlijk SE2 van het oude curriculum zelfs). Er waren inderdaad destijds wat issues met docenten in S2 die plotseling uit dienst gingen, maar ik denk eigenlijk niet dat ze ondanks dat daar veel bij gaat leren. Dus: teveel overlap inderdaad. Groet, Ruben
 
 ### Voorbeeld van bestanden die je tegenkomt
- * Een ingevulde en goedgekeurde Learning agreement van kiesopmaat
+ * Een ingevulde en goedgekeurde learning agreement van kiesopmaat
  * Een modulebeschrijving van kiesopmaat
+ * Een ingevulde en goedgekeurde learning agreement van een partij die niet is aangesloten bij kiesopmaat
 
 ## Procedure externe minor buiten Nederland
 Deze procedure richt zich op de aanvraag voor een externe minor buiten Nederland.
