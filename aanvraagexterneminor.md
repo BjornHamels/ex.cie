@@ -68,6 +68,8 @@ flowchart TD
       overlap
       aanwezig|Afwijzen((Afwijzen))
     Afwijzen-.->|Reparatie|CtrlOver
+    Buitenland2[[Zie ex.cie aanvraag
+      minor buitenland]]-.->CtrlOver
 
     %% Indien geen kiesopmaat
     SC[/SC/].->|Overleg SC|GeAcc
