@@ -203,7 +203,9 @@ Student komt uit het technology (en SI) profiel.
 >>>>>The (.pdf) file is the Learning Agreement generated from MobilityOnline website and the (.docx) file is the LA given me from the Host university.
 >>>>
 >>>>I’m afraid I cannot yet sign the document. Please review my findings and reply with your motivation/ clarifications.
+>>>>
 >>>>· Course BCSCe58.1 is missing the description. If unavailable, explain what you expect to learn in that course.
+>>>>
 >>>>· CCEe05, BCSCe13.2, EEAe26, BCSCe10, all four, in order of severity seem to have significant overlap with your profile and/ or specialization. Explain what you expect to learn more than you already know or learnt in your profile and/ or specialization. Be thorough in our motivation.
 >>>
 >>>[...]
